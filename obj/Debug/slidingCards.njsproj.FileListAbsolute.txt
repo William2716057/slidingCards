@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\slidingCards\slidingCards\obj\Debug\slidingCards.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\slidingCards\slidingCards\obj\Debug\slidingCards.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\slidingCards\slidingCards\bin\Microsoft.NodejsTools.WebRole.dll
